@@ -1,2 +1,0 @@
-# snordz
-description
