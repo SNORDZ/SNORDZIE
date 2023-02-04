@@ -1,2 +1,2 @@
-# SNORDZIE
+# snordz
 description
